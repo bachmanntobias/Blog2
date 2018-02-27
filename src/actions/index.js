@@ -14,3 +14,7 @@ return {
  payload:request
 };
 }
+
+export funtion createPost (values) {
+
+}
