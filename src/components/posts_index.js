@@ -23,7 +23,7 @@ sers
         return (
           <div>
             <div className="text-xs-right">
-                <Link to="/posts/new" className="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">
+                <Link to="/posts/new" className="btn btn-primary<">
                   	Posten
                 </Link>
                   </div>
