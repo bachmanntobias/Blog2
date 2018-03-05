@@ -11,6 +11,8 @@ import PostsNew from './components/posts_new';
 import PostsShow from './components/posts_show';
 
 const createStoreWithMiddleware = applyMiddleware(promise)(createStore);
+var createPost = console.log("7");
+createPost;
 
 class Hello extends React.Component {
   render() {return <div>Hello!</div>}
